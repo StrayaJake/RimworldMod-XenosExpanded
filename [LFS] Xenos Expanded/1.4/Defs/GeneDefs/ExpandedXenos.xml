@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <XenotypeDef>
+        <defName>Xeno_Dhucoih</defName>
+        <label>Dhucoih</label>
+        <description>Test</description>
+        <descriptionShort>TEST</descriptionShort>
+        <iconPath>UI/NightShadeRace</iconPath>
+        <inheritable>true</inheritable>
+        <combatPowerFactor>1.0</combatPowerFactor>
+        <nameMaker>NamerPersonImpid</nameMaker>
+        <chanceToUseNameMaker>1</chanceToUseNameMaker>
+        <genes>
+            <li>Immunity_Weak</li>
+            <li>WoundHealing_Slow</li>
+            <li>PsychicAbility_Extreme</li>
+            <li>Mood_Pessimist</li>
+            <li>Neversleep</li>
+            <li>Beauty_Ugly</li>
+            <li>Hair_BaldOnly</li>
+            <li>Beard_NoBeardOnly</li>
+            <li>Ears_Pointed</li>
+            <li>Nose_Human</li>
+            <li>Jaw_Baseline</li>
+            <li>Head_Gaunt</li>
+            <li>Headbone_Human</li>
+            <li>Voice_Human</li>
+            <li>Body_Standard</li>
+            <li>Body_Thin</li>
+            <li>Hair_LightBlue</li>
+            <li>Skin_Purple</li>
+            <li>Skin_Blue</li>
+            <li>Hands_Human</li>
+            <li>AptitudePoor_Mining</li>
+            <li>AptitudePoor_Animals</li>
+        </genes>
+    </XenotypeDef>
+</Defs>
