@@ -12,7 +12,7 @@
         </colorSpectrum>
         <factionIconPath>UI/Factions/StanadsIcon</factionIconPath>
         <requiredMemes>
-            <li>Raider</li>
+            <li MayRequire="Ludeon.RimWorld.Ideology">Raider</li>
         </requiredMemes>
         <xenotypeSet>
             <xenotypeChances Inherit="False">

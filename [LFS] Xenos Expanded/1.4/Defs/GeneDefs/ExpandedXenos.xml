@@ -6,7 +6,7 @@
         <label>Dhucoih</label>
         <description>The Dhucoih is an advanced Xeno suffering from their own intelligence. They are an evolved baseliner Xeno whose main goal in life was to reach the outer known knowledge of the PSY. In doing so have become super sensitive to all PSY waves and have evolved never to sleep. But this has led to them being fragile and sickly</description>
         <descriptionShort>The Dhucoih are an advanced PSY race but are very sickly</descriptionShort>
-        <iconPath>UI/Xenos/DhucoihRace</iconPath>
+        <iconPath>UI/Xenos/DhucoihIcon</iconPath>
         <inheritable>true</inheritable>
         <combatPowerFactor>1.0</combatPowerFactor>
         <nameMaker>NamerPersonImpid</nameMaker>
