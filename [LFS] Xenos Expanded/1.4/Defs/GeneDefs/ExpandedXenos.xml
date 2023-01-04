@@ -6,7 +6,7 @@
         <label>Dhucoih</label>
         <description>The Dhucoih is an advanced Xeno suffering from their own intelligence. They are an evolved baseliner Xeno whose main goal in life was to reach the outer known knowledge of the PSY. In doing so have become super sensitive to all PSY waves and have evolved never to sleep. But this has led to them being fragile and sickly</description>
         <descriptionShort>The Dhucoih are an advanced PSY race but are very sickly</descriptionShort>
-        <iconPath>UI/NightShadeRace</iconPath>
+        <iconPath>UI/DhucoihRace</iconPath>
         <inheritable>true</inheritable>
         <combatPowerFactor>1.0</combatPowerFactor>
         <nameMaker>NamerPersonImpid</nameMaker>
@@ -43,7 +43,7 @@
         <label>Trugnoth</label>
         <description>The Trugnoth is a Xeno suffering from others' manipulation. Their weakness is that they are dumb and not great at socializing with others. They evolved to be the cannon fodder of other Xenos. They are very slow to learn new skills But have grown to be brutes, being both excellent in shooting and melee. Due to the high death rate, these Xenos will breed as quickly and as much as possible</description>
         <descriptionShort>The Trugnoth are great warriors, both robust and strong</descriptionShort>
-        <iconPath>UI/NightShadeRace</iconPath>
+        <iconPath>UI/TrugnothIcon</iconPath>
         <inheritable>true</inheritable>
         <combatPowerFactor>1.0</combatPowerFactor>
         <nameMaker>NamerPersonImpid</nameMaker>
@@ -63,6 +63,7 @@
             <li>Eyes_Gray</li>
             <li>Hair_LongOnly</li>
             <li>Beard_BushyOnly</li>
+            <li>Ears_Pig</li>
             <li>Nose_Human</li>
             <li>Voice_Human</li>
             <li>FacialRidges</li>
