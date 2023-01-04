@@ -3,7 +3,7 @@
     <FactionDef ParentName="PirateBandBase">
         <defName>Stanads</defName>
         <label>Stanads</label>
-        <description>A loose confederation of pirate groups who've agreed to mostly fight outsiders instead of fighting each other. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.</description>
+        <description>A Strong group of survivors have agreed to work together as a primarily beneficial deal. The group consists of Dhucoih, making about 30%, and Trugnoth, with 70%. The Dhucoih is the group's brains, whereas the Dhucoihs are the soldiers. This rag-tag group is more like a band of pirates than a colony, Scavaging what ever gear they can get their hands on</description>
         <canMakeRandomly>true</canMakeRandomly>
         <requiredCountAtGameStart>1</requiredCountAtGameStart>
         <colorSpectrum Inherit="False">
