@@ -10,7 +10,7 @@
             <li>(0.0, 0.1, 1)</li>
             <li>(0.88, 0.7, 1)</li>
         </colorSpectrum>
-        <factionIconPath>World/WorldObjects/Expanding/CannibalPirate</factionIconPath>
+        <factionIconPath>UI/Factions/StanadsIcon</factionIconPath>
         <requiredMemes>
             <li>Raider</li>
         </requiredMemes>
