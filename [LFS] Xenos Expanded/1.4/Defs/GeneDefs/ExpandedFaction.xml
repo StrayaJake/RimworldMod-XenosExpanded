@@ -49,8 +49,8 @@
         </requiredMemes>
         <xenotypeSet>
             <xenotypeChances Inherit="False">
-                <Xeno_Zukran MayRequire="Ludeon.RimWorld.Biotech">0.7</Xeno_Zukran>
-                <Xeno_Ceds MayRequire="Ludeon.RimWorld.Biotech">0.3</Xeno_Ceds>
+                <Xeno_Zukran MayRequire="Ludeon.RimWorld.Biotech">0.2</Xeno_Zukran>
+                <Xeno_Ceds MayRequire="Ludeon.RimWorld.Biotech">0.8</Xeno_Ceds>
             </xenotypeChances>
         </xenotypeSet>
         <maxConfigurableAtWorldCreation>9999</maxConfigurableAtWorldCreation>
