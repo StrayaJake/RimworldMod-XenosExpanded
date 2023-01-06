@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
+    <!-- Stanads -->
     <FactionDef ParentName="PirateBandBase">
         <defName>Stanads</defName>
         <label>Stanads</label>
@@ -24,6 +25,34 @@
             <li MayRequire="Ludeon.RimWorld.Ideology">ApparelDesired_Strong_Subordinate</li> <!-- Never generate with any apparel precepts -->
             <li MayRequire="Ludeon.RimWorld.Ideology">ApparelDesired_Soft_Subordinate</li>
         </disallowedPrecepts>
+        <maxConfigurableAtWorldCreation>9999</maxConfigurableAtWorldCreation>
+        <configurationListOrderPriority>61</configurationListOrderPriority>
+        <startingCountAtWorldCreation>1</startingCountAtWorldCreation>
+        <canSiege>true</canSiege>
+        <canStageAttacks>true</canStageAttacks>
+    </FactionDef>
+
+    <!-- AscendancySentinel -->
+    <FactionDef ParentName="TribeBase">
+        <defName>AscendancySentinel</defName>
+        <label>The Ascendancy of the Sentinel</label>
+        <description>A tribe of the so-called descendants of the Dragon Sentinel, with the leaders known as Zukran and peasants known as the Ceds. Living off the land, they have only evolved to a tribal state of bows and spears, but don't let that fool you. They are very menacing and will set your entire base on fire. A combo of both fire starters and fire extinguishers.</description>
+        <canMakeRandomly>true</canMakeRandomly>
+        <requiredCountAtGameStart>1</requiredCountAtGameStart>
+        <colorSpectrum Inherit="False">
+            <li>(.5, 0, 0)</li>
+            <li>(1, 0.5, 0)</li>
+        </colorSpectrum>
+        <factionIconPath>UI/Factions/AscendancySentinelIcon</factionIconPath>
+        <requiredMemes>
+            <li MayRequire="Ludeon.RimWorld.Ideology">Supremacist</li>
+        </requiredMemes>
+        <xenotypeSet>
+            <xenotypeChances Inherit="False">
+                <Xeno_Zukran MayRequire="Ludeon.RimWorld.Biotech">0.7</Xeno_Zukran>
+                <Xeno_Ceds MayRequire="Ludeon.RimWorld.Biotech">0.3</Xeno_Ceds>
+            </xenotypeChances>
+        </xenotypeSet>
         <maxConfigurableAtWorldCreation>9999</maxConfigurableAtWorldCreation>
         <configurationListOrderPriority>61</configurationListOrderPriority>
         <startingCountAtWorldCreation>1</startingCountAtWorldCreation>

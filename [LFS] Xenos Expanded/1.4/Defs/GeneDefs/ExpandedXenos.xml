@@ -9,7 +9,7 @@
         <iconPath>UI/Xenos/DhucoihIcon</iconPath>
         <inheritable>true</inheritable>
         <combatPowerFactor>1.0</combatPowerFactor>
-        <nameMaker>NamerPersonImpid</nameMaker>
+        <nameMaker>NamerPersonYttakin</nameMaker>
         <chanceToUseNameMaker>1</chanceToUseNameMaker>
         <genes>
             <li>Immunity_Weak</li>
@@ -46,7 +46,7 @@
         <iconPath>UI/Xenos/TrugnothIcon</iconPath>
         <inheritable>true</inheritable>
         <combatPowerFactor>1.0</combatPowerFactor>
-        <nameMaker>NamerPersonImpid</nameMaker>
+        <nameMaker>NamerPersonPigskin</nameMaker>
         <chanceToUseNameMaker>1</chanceToUseNameMaker>
         <genes>
             <li>Immunity_SuperStrong</li>
@@ -81,4 +81,90 @@
         </genes>
     </XenotypeDef>
 
+    <!-- Ceds Race -->
+    <XenotypeDef>
+        <defName>Xeno_Ceds</defName>
+        <label>Ceds</label>
+        <description>The Ceds is a Xeno that has evolved to hate fire. They are known as rim fire hydrants. Their main goal inside the factions they join is to be firefighters, with their natural ability to spit foam spray that puts fires out. Unfortunately, due to the large number of fumes they have inhaled over the generations, they have evolved to be quite ugly and dull to the PSY. Even being ugly isn't enough to make them unhappy. Evolving to be naturally happy</description>
+        <descriptionShort>The Ceds are natural firefighters, but are ugly</descriptionShort>
+        <iconPath>UI/Xenos/CedsIcon</iconPath>
+        <inheritable>true</inheritable>
+        <combatPowerFactor>1.0</combatPowerFactor>
+        <nameMaker>NamerPersonImpid</nameMaker>
+        <chanceToUseNameMaker>1</chanceToUseNameMaker>
+        <genes>
+            <li>FoamSpray</li>
+            <li>WoundHealing_SuperFast</li>
+            <li>Superclotting</li>
+            <li>PsychicAbility_Dull</li>
+            <li>MoveSpeed_Slow</li>
+            <li>Mood_Optimist</li>
+            <li>MinTemp_SmallIncrease</li>
+            <li>MaxTemp_LargeIncrease</li>
+            <li>FireResistant</li>
+            <li>Aggression_Aggressive</li>
+            <li>Sleepy</li>
+            <li>Beauty_Ugly</li>
+            <li>Eyes_Red</li>
+            <li>Hair_ShortOnly</li>
+            <li>Beard_BushyOnly</li>
+            <li>Ears_Floppy</li>
+            <li>Jaw_Heavy</li>
+            <li>Brow_Heavy</li>
+            <li>Headbone_Human</li>
+            <li>Voice_Human</li>
+            <li>Body_Standard</li>
+            <li>Hair_SnowWhite</li>
+            <li>Skin_SheerWhite</li>
+            <li>DarkVision</li>
+            <li>Nose_Pig</li>
+            <li>AptitudePoor_Shooting</li>
+            <li>AptitudePoor_Cooking</li>
+            <li>AptitudePoor_Artistic</li>
+            <li>AptitudeRemarkable_Melee</li>
+        </genes>
+    </XenotypeDef>
+
+    <!-- Zukran Race -->
+    <XenotypeDef>
+        <defName>Xeno_Zukran</defName>
+        <label>Zukran</label>
+        <description>The Zukrans are the decedents of dragons? Well, that's what they claim. They can spit fire from their body while also being delicate, expecting everyone to serve them. Being able to spit fire has made them naturally fire-resistant and able to handle extreme temperatures, While also making them speedy and robust fighters. They communicate through grunts and roars</description>
+        <descriptionShort>The Zukrans are fast and robust fighters, that can spit fire</descriptionShort>
+        <iconPath>UI/Xenos/ZukranIcon</iconPath>
+        <inheritable>true</inheritable>
+        <combatPowerFactor>1.0</combatPowerFactor>
+        <nameMaker>NamerPersonImpid</nameMaker>
+        <chanceToUseNameMaker>1</chanceToUseNameMaker>
+        <genes>
+            <li>FireSpew</li>
+            <li>Superclotting</li>
+            <li>PsychicAbility_Deaf</li>
+            <li>MoveSpeed_VeryQuick</li>
+            <li>MinTemp_SmallIncrease</li>
+            <li>MaxTemp_LargeIncrease</li>
+            <li>FireResistant</li>
+            <li>Aggression_Aggressive</li>
+            <li>Sleepy</li>
+            <li>Delicate</li>
+            <li>Beauty_Ugly</li>
+            <li>Eyes_Gray</li>
+            <li>Beard_NoBeardOnly</li>
+            <li>Ears_Cat</li>
+            <li>Jaw_Baseline</li>
+            <li>Headbone_CenterHorn</li>
+            <li>VoiceRoar</li>
+            <li>FacialRidges</li>
+            <li>Body_Standard</li>
+            <li>Hair_BrightRed</li>
+            <li>Hair_DarkBlack</li>
+            <li>Skin_InkBlack</li>
+            <li>Skin_PaleRed</li>
+            <li>Skin_DeepRed</li>
+            <li>Nearsighted</li>
+            <li>Hands_Human</li>
+            <li>AptitudeRemarkable_Melee</li>
+            <li>AptitudeTerrible_Shooting</li>
+        </genes>
+    </XenotypeDef>
 </Defs>
