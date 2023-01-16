@@ -59,4 +59,35 @@
         <canSiege>true</canSiege>
         <canStageAttacks>true</canStageAttacks>
     </FactionDef>
+    
+    <!-- GoldenWarheads -->
+    <FactionDef ParentName="OutlanderFactionBase">
+        <defName>GoldenWarheads</defName>
+        <label>Golden Warheads</label>
+        <description>A Civil society that has been around for centuries, led by the Enphors Xenos. This faction formed long ago, taking in many Xenos that have found themselves stuck on the rim world. Primarily civil but have been known to be hyper-aggressive if the beast is disturbed. Best to be friendly with them unless you are ready for a fight</description>
+        <canMakeRandomly>true</canMakeRandomly>
+        <requiredCountAtGameStart>1</requiredCountAtGameStart>
+        <colorSpectrum Inherit="False">
+            <li>(1, 1, 0)</li>
+            <li>(1, 1, 0)</li>
+        </colorSpectrum>
+        <factionIconPath>UI/Factions/GoldenWarheadIcon</factionIconPath>
+        <requiredMemes>
+            <li MayRequire="Ludeon.RimWorld.Ideology">Supremacist</li>
+        </requiredMemes>
+        <xenotypeSet>
+            <xenotypeChances Inherit="False">
+                <Xeno_Enphor MayRequire="Ludeon.RimWorld.Biotech">0.05</Xeno_Enphor>
+                <Xeno_Dhucoih MayRequire="Ludeon.RimWorld.Biotech">0.15</Xeno_Dhucoih>
+                <Xeno_Trugnoth MayRequire="Ludeon.RimWorld.Biotech">0.6</Xeno_Trugnoth>
+                <Xeno_Ceds MayRequire="Ludeon.RimWorld.Biotech">0.1</Xeno_Ceds>
+                <Xeno_Zukran MayRequire="Ludeon.RimWorld.Biotech">0.1</Xeno_Zukran>
+            </xenotypeChances>
+        </xenotypeSet>
+        <maxConfigurableAtWorldCreation>1</maxConfigurableAtWorldCreation>
+        <configurationListOrderPriority>61</configurationListOrderPriority>
+        <startingCountAtWorldCreation>1</startingCountAtWorldCreation>
+        <canSiege>true</canSiege>
+        <canStageAttacks>true</canStageAttacks>
+    </FactionDef>
 </Defs>
