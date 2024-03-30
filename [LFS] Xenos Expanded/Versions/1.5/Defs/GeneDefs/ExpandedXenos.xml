@@ -223,4 +223,38 @@
             <li>ChemicalDependency_Smokeleaf</li>
         </genes>
     </XenotypeDef>
+
+    <!-- Momhoh Race -->
+    <XenotypeDef>
+        <defName>Xeno_Momhoh</defName>
+        <label>Momhoh</label>
+        <description>The Momhoh is one of the happiest Xenos you will ever see. After spending centuries on the rim world exposed to its horrors, these Xenos have resorted to drugs and become utterly dependent on smoke leaf. The side effects from taking this drug for so long have made them horrible fighters, but in turn, has given them excellent skills required to survive</description>
+        <descriptionShort>Terrible fighters but great survivalists</descriptionShort>
+        <iconPath>UI/Xenos/MomhohIcon</iconPath>
+        <inheritable>true</inheritable>
+        <combatPowerFactor>1.0</combatPowerFactor>
+        <nameMaker>NamerPersonImpid</nameMaker>
+        <chanceToUseNameMaker>1</chanceToUseNameMaker>
+        <displayPriority>-1000</displayPriority>
+        <genes>
+            <li>Mood_Sanguine</li>
+            <li>Sleepy</li>
+            <li>Hair_LongOnly</li>
+            <li>Beard_BushyOnly</li>
+            <li>Ears_Human</li>
+            <li>Jaw_Baseline</li>
+            <li>Voice_Human</li>
+            <li>Hair_LightTeal</li>
+            <li>Hair_LightGreen</li>
+            <li>Skin_PaleYellow</li>
+            <li>AptitudePoor_Shooting</li>
+            <li>AptitudeTerrible_Melee</li>
+            <li>AptitudeTerrible_Construction</li>
+            <li>AptitudeTerrible_Mining</li>
+            <li>AptitudeRemarkable_Cooking</li>
+            <li>AptitudeRemarkable_Plants</li>
+            <li>AptitudeRemarkable_Intellectual</li>
+            <li>ChemicalDependency_Smokeleaf</li>
+        </genes>
+    </XenotypeDef>
 </Defs>

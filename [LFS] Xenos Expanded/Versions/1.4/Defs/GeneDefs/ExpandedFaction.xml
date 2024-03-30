@@ -90,4 +90,33 @@
         <canSiege>true</canSiege>
         <canStageAttacks>true</canStageAttacks>
     </FactionDef>
+
+    <!-- Devils Tough -->
+    <FactionDef ParentName="TribeBase">
+        <defName>DevilsTougue</defName>
+        <label>Devil's Tongue</label>
+        <description>A Tribal gang of drug peddlers, Known as the Devil's Tongue, depends on smoke leaves to live. These Xenos have huddled together to worship the drug gods, living in mists of clouds. They live for selling and doing drugs. Paying for bodyguards while they develop to live the high life</description>
+        <canMakeRandomly>true</canMakeRandomly>
+        <requiredCountAtGameStart>1</requiredCountAtGameStart>
+        <colorSpectrum Inherit="False">
+            <li>(.3, 0, 0)</li>
+            <li>(.7, 0, 0)</li>
+        </colorSpectrum>
+        <factionIconPath>UI/Factions/DevilsTongueIcon</factionIconPath>
+        <requiredMemes>
+            <li MayRequire="Ludeon.RimWorld.Ideology">HighLife</li>
+        </requiredMemes>
+        <xenotypeSet>
+            <xenotypeChances Inherit="False">
+                <Xeno_Dhucoih MayRequire="Ludeon.RimWorld.Biotech">0.1</Xeno_Dhucoih>
+                <Xeno_Trugnoth MayRequire="Ludeon.RimWorld.Biotech">0.4</Xeno_Trugnoth>
+                <Xeno_Momhoh MayRequire="Ludeon.RimWorld.Biotech">0.5</Xeno_Momhoh>
+            </xenotypeChances>
+        </xenotypeSet>
+        <maxConfigurableAtWorldCreation>9999</maxConfigurableAtWorldCreation>
+        <configurationListOrderPriority>61</configurationListOrderPriority>
+        <startingCountAtWorldCreation>1</startingCountAtWorldCreation>
+        <canSiege>true</canSiege>
+        <canStageAttacks>true</canStageAttacks>
+    </FactionDef>
 </Defs>
