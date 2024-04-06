@@ -4,6 +4,8 @@
 ![Image](https://i.imgur.com/PYPncT6.png)
 This is a very straightforward mod that currently adds in 6 Xeno Races and 4 Faction.
 
+This mod will work with all biotech, For the extra genes, subscribe to the other mods that I have made, They can be found at the bottom of the page.
+
 ![Image](https://i.imgur.com/AEkpTsN.png)
 ![Image](https://i.imgur.com/KKtcQTx.png)
 ![Image](https://i.imgur.com/PGGwULe.png)
@@ -12,11 +14,22 @@ This is a very straightforward mod that currently adds in 6 Xeno Races and 4 Fac
 
 ![Image](https://i.imgur.com/sNwhqE8.png)
 ![Image](https://i.imgur.com/FnqpmdS.png)
+[![Image](https://imgur.com/aMVtbiR.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3214172563)
+
 ![Image](https://i.imgur.com/YgOYl5j.png)
+[![Image](https://imgur.com/nrSBPaO.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3214172563)
+
 ![Image](https://i.imgur.com/JMijwY0.png)
+[![Image](https://imgur.com/at3QvkJ.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3214172563)
+
 ![Image](https://i.imgur.com/Mzf6QDw.png)
+[![Image](https://imgur.com/qL8DfiR.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3214172563)
+
 ![Image](https://i.imgur.com/IYgWmh3.png)
+[![Image](https://imgur.com/UqDWGhQ.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3214172563)
+
 ![Image](https://i.imgur.com/94ASdO5.png)
+[![Image](https://imgur.com/at3QvkJ.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3214172563)
 
 ![Image](https://i.imgur.com/ZQWNmqB.png)
 It should be compatible with everything, as it adds in some new Xenos and factions. If there is a bug, report it so I can fix it.
@@ -24,6 +37,7 @@ It should be compatible with everything, as it adds in some new Xenos and factio
 ![Image](https://i.imgur.com/j2Qa3am.png)
 [![Steam Link](https://i.imgur.com/RnUjw7H.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2909372626)
 [![Steam Link](https://i.imgur.com/jw2U709.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2922457045)
+[![Steam Link](https://i.imgur.com/K50UWGo.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3208605060)
 
 ![Image](https://i.imgur.com/zAqv5PJ.png)
 Art and XML done by me, [StrayaJake](https://steamcommunity.com/id/Jakeco19/)
