@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <!-- Dhucoih Race -->
+    <XenotypeDef>
+        <defName>Xeno_Dhucoih</defName>
+        <label>Dhucoih</label>
+        <description>The Dhucoih is an advanced Xeno suffering from their own intelligence. They are an evolved baseliner Xeno whose main goal in life was to reach the outer known knowledge of the PSY. In doing so have become super sensitive to all PSY waves and have evolved never to sleep. But this has led to them being fragile and sickly</description>
+        <descriptionShort>The Dhucoih are an advanced PSY race but are very sickly</descriptionShort>
+        <iconPath>UI/Xenos/DhucoihIcon</iconPath>
+        <inheritable>true</inheritable>
+        <combatPowerFactor>1.0</combatPowerFactor>
+        <nameMaker>NamerPersonYttakin</nameMaker>
+        <chanceToUseNameMaker>1</chanceToUseNameMaker>
+        <genes>
+            <li>Immunity_Weak</li>
+            <li>WoundHealing_Slow</li>
+            <li>PsychicAbility_Extreme</li>
+            <li>Mood_Pessimist</li>
+            <li>Neversleep</li>
+            <li>Beauty_Ugly</li>
+            <li>Hair_BaldOnly</li>
+            <li>Beard_NoBeardOnly</li>
+            <li>Ears_Pointed</li>
+            <li>Nose_Human</li>
+            <li>Jaw_Baseline</li>
+            <li>Head_Gaunt</li>
+            <li>Headbone_Human</li>
+            <li>Voice_Human</li>
+            <li>Body_Standard</li>
+            <li>Body_Thin</li>
+            <li>Hair_LightBlue</li>
+            <li>Skin_Purple</li>
+            <li>Skin_Blue</li>
+            <li>Hands_Human</li>
+            <li>AptitudePoor_Mining</li>
+            <li>AptitudePoor_Animals</li>
+        </genes>
+    </XenotypeDef>
+    
+    <!-- Trugnoth Race -->
+    <XenotypeDef>
+        <defName>Xeno_Trugnoth</defName>
+        <label>Trugnoth</label>
+        <description>The Trugnoth is a Xeno suffering from others' manipulation. Their weakness is that they are dumb and not great at socializing with others. They evolved to be the cannon fodder of other Xenos. They are very slow to learn new skills But have grown to be brutes, being both excellent in shooting and melee. Due to the high death rate, these Xenos will breed as quickly and as much as possible</description>
+        <descriptionShort>The Trugnoth are great warriors, both robust and strong</descriptionShort>
+        <iconPath>UI/Xenos/TrugnothIcon</iconPath>
+        <inheritable>true</inheritable>
+        <combatPowerFactor>1.0</combatPowerFactor>
+        <nameMaker>NamerPersonPigskin</nameMaker>
+        <chanceToUseNameMaker>1</chanceToUseNameMaker>
+        <genes>
+            <li>Immunity_SuperStrong</li>
+            <li>WoundHealing_SuperFast</li>
+            <li>Superclotting</li>
+            <li>PsychicAbility_Deaf</li>
+            <li>MoveSpeed_Slow</li>
+            <li>Aggression_Aggressive</li>
+            <li>VerySleepy</li>
+            <li>Robust</li>
+            <li>Pain_Reduced</li>
+            <li>Libido_High</li>
+            <li>Fertile</li>
+            <li>Eyes_Gray</li>
+            <li>Hair_LongOnly</li>
+            <li>Beard_BushyOnly</li>
+            <li>Ears_Pig</li>
+            <li>Nose_Human</li>
+            <li>Voice_Human</li>
+            <li>FacialRidges</li>
+            <li>Body_Hulk</li>
+            <li>Hair_InkBlack</li>
+            <li>Skin_Green</li>
+            <li>Learning_Slow</li>
+            <li>Unstoppable</li>
+            <li>AptitudeRemarkable_Shooting</li>
+            <li>AptitudeRemarkable_Melee</li>
+            <li>AptitudeRemarkable_Mining</li>
+            <li>AptitudeTerrible_Cooking</li>
+            <li>AptitudeTerrible_Artistic</li>
+            <li>AptitudeTerrible_Social</li>
+        </genes>
+    </XenotypeDef>
+
+    <!-- Ceds Race -->
+    <XenotypeDef>
+        <defName>Xeno_Ceds</defName>
+        <label>Ceds</label>
+        <description>The Ceds is a Xeno that has evolved to hate fire. They are known as rim fire hydrants. Their main goal inside the factions they join is to be firefighters, with their natural ability to spit foam spray that puts fires out. Unfortunately, due to the large number of fumes they have inhaled over the generations, they have evolved to be quite ugly and dull to the PSY. Even being ugly isn't enough to make them unhappy. Evolving to be naturally happy</description>
+        <descriptionShort>The Ceds are natural firefighters, but are ugly</descriptionShort>
+        <iconPath>UI/Xenos/CedsIcon</iconPath>
+        <inheritable>true</inheritable>
+        <combatPowerFactor>1.0</combatPowerFactor>
+        <nameMaker>NamerPersonImpid</nameMaker>
+        <chanceToUseNameMaker>1</chanceToUseNameMaker>
+        <genes>
+            <li>FoamSpray</li>
+            <li>WoundHealing_SuperFast</li>
+            <li>Superclotting</li>
+            <li>PsychicAbility_Dull</li>
+            <li>MoveSpeed_Slow</li>
+            <li>Mood_Optimist</li>
+            <li>MinTemp_SmallIncrease</li>
+            <li>MaxTemp_LargeIncrease</li>
+            <li>FireResistant</li>
+            <li>Aggression_Aggressive</li>
+            <li>Sleepy</li>
+            <li>Beauty_Ugly</li>
+            <li>Eyes_Red</li>
+            <li>Hair_ShortOnly</li>
+            <li>Beard_BushyOnly</li>
+            <li>Ears_Floppy</li>
+            <li>Jaw_Heavy</li>
+            <li>Brow_Heavy</li>
+            <li>Headbone_Human</li>
+            <li>Voice_Human</li>
+            <li>Body_Standard</li>
+            <li>Hair_SnowWhite</li>
+            <li>Skin_SheerWhite</li>
+            <li>DarkVision</li>
+            <li>Nose_Pig</li>
+            <li>AptitudePoor_Shooting</li>
+            <li>AptitudePoor_Cooking</li>
+            <li>AptitudePoor_Artistic</li>
+            <li>AptitudeRemarkable_Melee</li>
+        </genes>
+    </XenotypeDef>
+
+    <!-- Zukran Race -->
+    <XenotypeDef>
+        <defName>Xeno_Zukran</defName>
+        <label>Zukran</label>
+        <description>The Zukrans are the decedents of dragons? Well, that's what they claim. They can spit fire from their body while also being delicate, expecting everyone to serve them. Being able to spit fire has made them naturally fire-resistant and able to handle extreme temperatures, While also making them speedy and robust fighters. They communicate through grunts and roars</description>
+        <descriptionShort>The Zukrans are fast and robust fighters, that can spit fire</descriptionShort>
+        <iconPath>UI/Xenos/ZukranIcon</iconPath>
+        <inheritable>true</inheritable>
+        <combatPowerFactor>1.0</combatPowerFactor>
+        <nameMaker>NamerPersonImpid</nameMaker>
+        <chanceToUseNameMaker>1</chanceToUseNameMaker>
+        <genes>
+            <li>FireSpew</li>
+            <li>Superclotting</li>
+            <li>PsychicAbility_Deaf</li>
+            <li>MoveSpeed_VeryQuick</li>
+            <li>MinTemp_SmallIncrease</li>
+            <li>MaxTemp_LargeIncrease</li>
+            <li>FireResistant</li>
+            <li>Aggression_Aggressive</li>
+            <li>Sleepy</li>
+            <li>Delicate</li>
+            <li>Beauty_Ugly</li>
+            <li>Eyes_Gray</li>
+            <li>Beard_NoBeardOnly</li>
+            <li>Ears_Cat</li>
+            <li>Jaw_Baseline</li>
+            <li>Headbone_CenterHorn</li>
+            <li>VoiceRoar</li>
+            <li>FacialRidges</li>
+            <li>Body_Standard</li>
+            <li>Hair_BrightRed</li>
+            <li>Hair_DarkBlack</li>
+            <li>Skin_InkBlack</li>
+            <li>Skin_PaleRed</li>
+            <li>Skin_DeepRed</li>
+            <li>Nearsighted</li>
+            <li>Hands_Human</li>
+            <li>AptitudeRemarkable_Melee</li>
+            <li>AptitudeTerrible_Shooting</li>
+        </genes>
+    </XenotypeDef>
+    
+    <!-- Enphor Race -->
+    <XenotypeDef>
+        <defName>Xeno_Enphor</defName>
+        <label>Enphor</label>
+        <description>The Enphors are gods. Well, that's what everyone says. But the reality is that these Xenos are just very old. These Xenos can be considered the original rim worlder, maybe even lost Aerotech's? Although their personality is not the greatest, being useless at almost everything except shooting and socializing. They are ageless and deathless</description>
+        <descriptionShort>Gods that are useless, they dont die or age</descriptionShort>
+        <iconPath>UI/Xenos/EnphorIcon</iconPath>
+        <inheritable>true</inheritable>
+        <combatPowerFactor>3.0</combatPowerFactor>
+        <nameMaker>NamerPersonImpid</nameMaker>
+        <chanceToUseNameMaker>1</chanceToUseNameMaker>
+        <displayPriority>-1000</displayPriority>
+        <genes>
+            <li>Ageless</li>
+            <li>ArchiteMetabolism</li>
+            <li>Deathless</li>
+            <li>PerfectImmunity</li>
+            <li>AcidSpray</li>
+            <li>WoundHealing_SuperFast</li>
+            <li>Superclotting</li>
+            <li>PsychicAbility_Extreme</li>
+            <li>MoveSpeed_VeryQuick</li>
+            <li>Mood_Sanguine</li>
+            <li>FireTerror</li>
+            <li>Aggression_HyperAggressive</li>
+            <li>Robust</li>
+            <li>Pain_Reduced</li>
+            <li>Sterile</li>
+            <li>Beauty_Beautiful</li>
+            <li>Ears_Floppy</li>
+            <li>Nose_Human</li>
+            <li>Jaw_Baseline</li>
+            <li>Head_Gaunt</li>
+            <li>Headbone_MiniHorns</li>
+            <li>Voice_Human</li>
+            <li>Body_Hulk</li>
+            <li>Hair_MidBlack</li>
+            <li>Hair_DarkBlack</li>
+            <li>Hair_InkBlack</li>
+            <li>Skin_SlateGray</li>
+            <li>ElongatedFingers</li>
+            <li>Unstoppable</li>
+            <li>AptitudeRemarkable_Shooting</li>
+            <li>AptitudeRemarkable_Social</li>
+            <li>AptitudeTerrible_Construction</li>
+            <li>AptitudeTerrible_Mining</li>
+            <li>AptitudeTerrible_Cooking</li>
+            <li>AptitudeTerrible_Plants</li>
+            <li>AptitudeTerrible_Animals</li>
+            <li>AptitudeTerrible_Crafting</li>
+            <li>AptitudeTerrible_Artistic</li>
+            <li>AptitudeTerrible_Medicine</li>
+            <li>ChemicalDependency_Smokeleaf</li>
+        </genes>
+    </XenotypeDef>
+
+    <!-- Momhoh Race -->
+    <XenotypeDef>
+        <defName>Xeno_Momhoh</defName>
+        <label>Momhoh</label>
+        <description>The Momhoh is one of the happiest Xenos you will ever see. After spending centuries on the rim world exposed to its horrors, these Xenos have resorted to drugs and become utterly dependent on smoke leaf. The side effects from taking this drug for so long have made them horrible fighters, but in turn, has given them excellent skills required to survive</description>
+        <descriptionShort>Terrible fighters but great survivalists</descriptionShort>
+        <iconPath>UI/Xenos/MomhohIcon</iconPath>
+        <inheritable>true</inheritable>
+        <combatPowerFactor>1.0</combatPowerFactor>
+        <nameMaker>NamerPersonImpid</nameMaker>
+        <chanceToUseNameMaker>1</chanceToUseNameMaker>
+        <displayPriority>-1000</displayPriority>
+        <genes>
+            <li>Mood_Sanguine</li>
+            <li>Sleepy</li>
+            <li>Hair_LongOnly</li>
+            <li>Beard_BushyOnly</li>
+            <li>Ears_Human</li>
+            <li>Jaw_Baseline</li>
+            <li>Voice_Human</li>
+            <li>Hair_LightTeal</li>
+            <li>Hair_LightGreen</li>
+            <li>Skin_PaleYellow</li>
+            <li>AptitudePoor_Shooting</li>
+            <li>AptitudeTerrible_Melee</li>
+            <li>AptitudeTerrible_Construction</li>
+            <li>AptitudeTerrible_Mining</li>
+            <li>AptitudeRemarkable_Cooking</li>
+            <li>AptitudeRemarkable_Plants</li>
+            <li>AptitudeRemarkable_Intellectual</li>
+            <li>ChemicalDependency_Smokeleaf</li>
+        </genes>
+    </XenotypeDef>
+</Defs>
